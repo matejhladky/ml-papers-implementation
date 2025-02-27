@@ -6,7 +6,8 @@ This repository contains documented implementations of influential machine learn
 |---|---|---|
 |  Gradient Based Learning Applied to Document Recognition |  LeNet | Finished |
 |  ImageNet Classification with Deep Convolutional Neural Networks | AlexNet | In Progress |
-| Deep Residual Learning for Image Recognition | ResNet | In Progress | 
+| Deep Residual Learning for Image Recognition | ResNet | In Progress |
+| Going Deeper with Convolutions | GoogLeNet/InceptionNet | In Progress |
 
 More papers will be added soon.
 
